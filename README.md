@@ -14,5 +14,6 @@ This module handles the modular exponentiation required for RSA encryption.
 This module performs the modular reduction operation necessary in RSA encryption.
 
 # Additional Details
-### isPrime: Helper module to check the primality of the encryption key.
+### isPrime
+Helper module to check the primality of the encryption key.
 
